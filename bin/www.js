@@ -15,7 +15,7 @@ index.set('port', PORT);
 index.set('host', HOST);
 index.set('env', process.env.ENV);
 
-const dbURI = 'mongodb+srv://boomy:25102002@cluster0.lfldchi.mongodb.net/projectdatabase?retryWrites=true&w=majority';
+const dbURI = 'mongodb+srv://imposterjump2:25102002@cluster0.z6cgz77.mongodb.net/jump?retryWrites=true&w=majority';
 
 //creating server 
 const server = createServer(index);
